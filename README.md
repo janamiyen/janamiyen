@@ -1,2 +1,2 @@
 ### Hi there 👋, I'm Jana Miyen 😀
-## I'm a Full-stack developer!
+## I'm a Full-Stack developer!
